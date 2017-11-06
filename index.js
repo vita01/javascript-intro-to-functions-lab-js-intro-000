@@ -7,13 +7,13 @@ function whisper(string){
   return string.toLowerCase();
 }
 function logShout(string){
-return cobsole.log(string);
+return console.log(string);
 
 }
 
 function logWhisper(string){
 
-  return cobsole.log(string);
+  return console.log(string);
 }
 
 function sayHiToGrandma(string){
