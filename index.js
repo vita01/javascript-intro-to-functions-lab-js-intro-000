@@ -8,7 +8,7 @@ functiun whisper(string){
 }
 function logShout(string){
 return cobsole.log(string);
-  
+
 }
 
 function logWhisper(string){
